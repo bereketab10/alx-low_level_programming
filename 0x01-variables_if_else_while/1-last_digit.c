@@ -21,3 +21,4 @@ printf("Last diguigit of %d is %d %s\n", n, n % 10,
 : "and is less than 6 and not 0"));
 
 return (0);
+}
