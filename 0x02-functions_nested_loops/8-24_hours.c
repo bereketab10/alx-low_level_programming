@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * time_keeper -prints every minute of the day
+ * jack_bauer -prints every minute of the day
  * Return: Always 0.
  */
 
-void time_keeper(void)
+void jack_bauer(void)
 {
 int a;
 int b;
