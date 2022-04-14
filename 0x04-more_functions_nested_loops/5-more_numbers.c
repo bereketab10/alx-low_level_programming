@@ -18,7 +18,7 @@ if (x > 9)
 {
 _putchar((x / 10) + 48);
 }
-_putchar((x % 10) + 48)
+_putchar((x % 10) + 48);
 }
 _putchar(10);
 }
