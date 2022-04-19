@@ -32,12 +32,9 @@ int _atoi(char *s)
 
 	int sign;
 
-
-
 	sign = 1;
 
 	number = 0;
-
 
 	for (i = 0; s[i] != '\0'; i++)
 
@@ -68,5 +65,4 @@ int _atoi(char *s)
 	}
 
 	return (number * sign);
-
 }
